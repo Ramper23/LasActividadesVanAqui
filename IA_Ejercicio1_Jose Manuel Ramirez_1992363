@@ -1,0 +1,13 @@
+"Jose Manuel Ramirez Perez 1992363 Ejercicios Básicos en Python"
+message = input("Cual es tu nombre:")
+a = ("Juan")
+b = ("Pedro")
+c = ("Ana")
+if message == a:
+  print("Vuelve a intentar")
+elif message == b:
+  print("Vuelve a intentar")
+elif message == c:
+  print("Vuelve a intentar")
+else:
+    print("Hola",message)
